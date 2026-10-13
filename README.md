@@ -6,7 +6,7 @@
 
 I design and build software that solves real-world problems — from production school-management systems to privacy-focused applications and connected services.
 
-[LinkedIn](https://www.linkedin.com/in/marc-pico/) · [Email](mailto:marcps2001@gmail.com) · [GitHub](https://github.com/MarcPico22)
+[LinkedIn](https://www.linkedin.com/in/marc-pico/) · [Email](mailto:marcps2001@gmail.com) 
 
 </div>
 
